@@ -1,2 +1,1 @@
-# Power bi projects
-Here are the of power bi that i made
+Here are the project that I made .
